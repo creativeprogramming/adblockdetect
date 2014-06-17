@@ -14,7 +14,7 @@ $.AdBlockDetect({
   },
   undetected: function() {
     $('body').text('Thank you for not using Adblock.');
-  }
+  },
   support: '#footer'
 });
 </script>
